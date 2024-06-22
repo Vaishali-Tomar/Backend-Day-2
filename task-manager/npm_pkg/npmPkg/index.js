@@ -1,5 +1,5 @@
 const greetUser = (userName) => {
-    console.loh(`hello, ${userName}`);
+    console.log(`hello, ${userName}`);
 }
 
 const greetWithSalutation = (salutation, userName) => {

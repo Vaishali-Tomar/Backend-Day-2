@@ -1,0 +1,15 @@
+{
+  "name": "arraypkg",
+  "version": "1.0.0",
+  "description": "HOF function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Array",
+    "function"
+  ],
+  "author": "Vaishalitomar",
+  "license": "ISC"
+}
